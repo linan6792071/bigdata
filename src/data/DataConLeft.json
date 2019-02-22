@@ -1,0 +1,8 @@
+{
+  "topinfolists": [
+    {"imgs": "../../static/img/info-img-1.png","remarks": "车辆总数(辆)","nums": "12457","numscolor": "color:#ffff44;"},
+    {"imgs": "../../static/img/info-img-2.png","remarks": "当前在线数(辆)","nums": "12457","numscolor": "color:#25f3e6;"},
+    {"imgs": "../../static/img/info-img-3.png","remarks": "今日活跃数(辆)","nums": "12457","numscolor": "color:#f84a4a;"},
+    {"imgs": "../../static/img/info-img-4.png","remarks": "今日活跃率(%)","nums": "83%","numscolor": "color:#ffff44;"}
+  ]
+}
